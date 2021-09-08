@@ -1,0 +1,16 @@
+Package: ai.paisseon.monika
+Name: Doki Doki Literature Club!(心跳文學部)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A port by Paisseon & u/GuyBread with love.
+Deciption: https://github.com/Paisseon/DDLC/blob/emt/README.md
+Maintainer: utamin
+Author: Paisseon
+Section: Games
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/ai.paisseon.monika_1.0_iphoneos-arm.deb
+Size: 345903104
+MD5sum: 1d4322c7356c133e5944c0496fe97c73
+SHA1: 5e1e81c5e0211e183820675f0c91bbe9e9a2a2a3
+SHA256: eb0c8ce10062e7b26a75af4f691c8e90c2f44a5edbceb0ad645d0daa88d3a6ef
+
