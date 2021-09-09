@@ -7,7 +7,7 @@ Depiction: https://github.com/Paisseon/DDLC/blob/emt/README.md
 Maintainer: utamin
 Author: Paisseon
 Section: Games
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate
 Filename: /debs/ai.paisseon.monika_1.0_iphoneos-arm.deb
 MD5sum: 1d4322c7356c133e5944c0496fe97c73
 SHA1: 5e1e81c5e0211e183820675f0c91bbe9e9a2a2a3
